@@ -42,6 +42,36 @@ Missing Word Prompting:
 
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
-OUTPUT:
+OUTPUT: 1. Straightforward Prompts Scenario 1: Education
 
-RESULT: 
+Prompt: “Explain the water cycle in 5 simple sentences.”
+
+Scenario 2: Healthcare
+
+Prompt: “List four benefits of regular physical exercise.”
+
+2. Tabular Format Prompting Scenario 1: Technology
+
+Prompt: “Create a table comparing Python, Java, and C++ based on speed, usability, and applications.”
+
+Scenario 2: Business
+
+Prompt: “Provide a table showing different marketing strategies, their advantages, and one example for each.”
+
+3. Preceding Question Prompting Scenario 1: Environment
+
+Prompt: “Why is plastic pollution harmful to marine life? Explain its impact on oceans and animals.”
+
+Scenario 2: Computer Science
+
+Prompt: “What is cloud computing? Describe how businesses use cloud services in daily operations.”
+
+4. Missing Word Prompting Scenario 1: Geography
+
+Prompt: “The largest planet in our solar system is ____.”
+
+Scenario 2: Biology
+
+Prompt: “Human beings breathe in oxygen and breathe out ____.”
+
+RESULT: Thus the programme has been successfully executed
